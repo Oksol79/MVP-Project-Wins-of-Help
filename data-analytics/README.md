@@ -14,8 +14,8 @@ As part of the analytical part of the project, the structure of two dashboards (
  - [Strategic approach and project planning](#strategic-approach-and-project-planning)
  - [Software Requirements Specification](#software-requirements-specification-srs)
  - [Identifying key user flows and events](#identifying-key-user-flows-and-events)
- - [Developing basic KPIs and metrics]()
- - 
+ - [Developing basic KPIs and metrics](#developing-basic-kpis-and-metrics)
+ - [Creating hypotheses for A/B tests]()
 
 
 ## Strategic approach and project planning
@@ -40,6 +40,12 @@ This document defines key user flows and the event model for the web service to 
 ## Developing basic KPIs and metrics
 [View the document](https://docs.google.com/document/d/1Km0dKCElqv5qamU37tBzniLV-7p6ZAL2ntk_doPj2rA/edit?usp=sharing)
 
+The purpose of this document is to define key performance indicators (KPIs) and analytical metrics for evaluating the effectiveness of the Wings of Help web service. These metrics help assess platform performance and the quality of interaction between users, volunteers, and the system. They are also used for building dashboards, monitoring performance, and supporting product and business decisions.
+
+## Creating hypotheses for A/B tests
+[View the document](https://docs.google.com/document/d/1O9597Io1CI1i9OXtFHM671hNIhn2Lo0czgMCtUnTqNM/edit?usp=sharing)
+
+A/B testing in the Wings of Help web service is planned to be used to test product hypotheses aimed at improving platform performance and user experience. It helps to reduce the time between creating a request and providing assistance, increase the number of completed requests, and increase volunteer engagement. This approach supports data-driven decision-making and reduces reliance on subjective assumptions.
 
 
 
