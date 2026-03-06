@@ -8,7 +8,7 @@ The next stage was the development of a dataset for the project in Python, takin
 
 Exploratory data analysis (EDA) was also conducted using Python tools (Pandas, NumPy, Matplotlib, Seaborn), statistical significance testing was performed, and visualizations of the results were created.
 
-As part of the analytical part of the project, the structure of two dashboards (13) was developed, which were implemented in Tableau (14) and Power BI (15).
+As part of the analytical part of the project, the structure of two dashboards was developed, which were implemented in Tableau and Power BI.
 
 # Table of Contents
  - [Strategic approach and project planning](#strategic-approach-and-project-planning)
@@ -57,7 +57,7 @@ A/B testing in the Wings of Help web service is planned to be used to test produ
 This document describes statistical methods used to analyze product analytics for the “Wings of Help” web service. These methods support accurate KPI analysis and evaluation of A/B test results to enable data-driven product decisions. The document also helps ensure the correct use of statistical tests and a consistent analytical approach across teams.
 
 ## Development of the Wings of Help Dataset
-[Link to Python code for creating the Wings of Help dataset]()
+[Link to Python code for creating the Wings of Help dataset](data-analytics/Python%20Code%20for%20Creating%20the%20Wings%20of%20Help%20Dataset.ipynb)
 
 The Wings of Help web service provides interaction between people or organizations in need of help and volunteers, allowing users to create, publish, view, and manage requests for help. The platform allows requests to be created, processed by volunteers, and content to be moderated by administrators.  
 The dataset was created to simulate the platform, test the functionality of the web service, analyze the interaction between users and volunteers, and for further research related to optimizing the processing of help requests and scaling the system. Currently, the web platform is developed as an MVP with basic functionality for quick launch and scalability in the future.
