@@ -11,6 +11,7 @@ The system allows users to create, publish, and view requests for assistance, as
   - [Technologies](#technologies)
   - [Features](#features)
   - [Installation](#installation)
+  - [Data Analytics](data-analytics/)
   - [Our team](#our-team)
   - [Preview](#preview)
  
