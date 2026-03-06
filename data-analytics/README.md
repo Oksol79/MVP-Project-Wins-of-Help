@@ -58,7 +58,7 @@ A/B testing in the Wings of Help web service is planned to be used to test produ
 This document describes statistical methods used to analyze product analytics for the “Wings of Help” web service. These methods support accurate KPI analysis and evaluation of A/B test results to enable data-driven product decisions. The document also helps ensure the correct use of statistical tests and a consistent analytical approach across teams.
 
 ## Development of the Wings of Help Dataset
-[Open Dataset Generation Code](data-analytics/wings-of-help-dataset-generation.ipynb)
+[Open Dataset Generation Code](https://colab.research.google.com/drive/1LMIO7Z1wkY_GGSqaoilM2CyTbFK2JF2e?usp=drive_link)
 
 The Wings of Help web service provides interaction between people or organizations in need of help and volunteers, allowing users to create, publish, view, and manage requests for help. The platform allows requests to be created, processed by volunteers, and content to be moderated by administrators.  
 The dataset was created to simulate the platform, test the functionality of the web service, analyze the interaction between users and volunteers, and for further research related to optimizing the processing of help requests and scaling the system. Currently, the web platform is developed as an MVP with basic functionality for quick launch and scalability in the future.
@@ -77,7 +77,7 @@ Developed dataset for the Wings of Help web service:
 [View the events.csv](https://drive.google.com/file/d/1rewutkypinj0Z9lnEsFM4HIpmeF5lCHh/view?usp=sharing)
    
 ## Exploratory Data Analysis and Visualization in Python
-[Open Notebook](data-analytics/exploratory-data-analysis-python.ipynb)
+[Open Notebook](https://colab.research.google.com/drive/1xdy3zlf1FJd1i7pZ-cp4Q3nvApYhaDPM?usp=drive_link)
 
 The Wings of Help web service enables interaction between people or organizations in need of help and volunteers through a centralized platform for managing requests for help. The project dataset was created in Python and follows the Postgres SQL database structure, key performance indicators (KPIs), and metrics defined in the project documentation.
 
