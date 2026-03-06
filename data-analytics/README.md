@@ -15,7 +15,8 @@ As part of the analytical part of the project, the structure of two dashboards (
  - [Software Requirements Specification](#software-requirements-specification-srs)
  - [Identifying key user flows and events](#identifying-key-user-flows-and-events)
  - [Developing basic KPIs and metrics](#developing-basic-kpis-and-metrics)
- - [Creating hypotheses for A/B tests]()
+ - [Creating hypotheses for A/B tests](#creating-hypotheses-for-ab-tests)
+ - [Statistical Methods for Product Analytics]()
 
 
 ## Strategic approach and project planning
@@ -46,6 +47,11 @@ The purpose of this document is to define key performance indicators (KPIs) and 
 [View the document](https://docs.google.com/document/d/1O9597Io1CI1i9OXtFHM671hNIhn2Lo0czgMCtUnTqNM/edit?usp=sharing)
 
 A/B testing in the Wings of Help web service is planned to be used to test product hypotheses aimed at improving platform performance and user experience. It helps to reduce the time between creating a request and providing assistance, increase the number of completed requests, and increase volunteer engagement. This approach supports data-driven decision-making and reduces reliance on subjective assumptions.
+
+## Statistical Methods for Product Analytics
+[View the document](https://docs.google.com/document/d/1TjVWm74JYVtXbcqFHbTy41QA0K4anysEmGUgmApyCa0/edit?usp=sharing)
+
+This document describes statistical methods used to analyze product analytics for the “Wings of Help” web service. These methods support accurate KPI analysis and evaluation of A/B test results to enable data-driven product decisions. The document also helps ensure the correct use of statistical tests and a consistent analytical approach across teams.
 
 
 
