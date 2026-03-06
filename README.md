@@ -108,7 +108,8 @@ Yevheniia Zhakun – QA Engineer
 https://www.linkedin.com/in/yevheniia-zhakun-497783391
 
 ## Preview
-<img width="1043" height="630" alt="image" src="https://github.com/user-attachments/assets/60a0fd72-39a4-4eef-8bea-6df1c4e6c4ef" />
+
+<img width="1324" height="699" alt="image" src="https://github.com/user-attachments/assets/06b166f8-2f8a-48f0-a0e1-bfac366dfa53" />
 
 <img width="1190" height="851" alt="image" src="https://github.com/user-attachments/assets/711a5e8b-880f-4702-a6ef-dca8ebef47ea" />
 
