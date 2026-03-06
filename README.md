@@ -6,7 +6,7 @@ Welcome to the web service "Wings of Help." The web service is an online platfor
 The system allows users to create, publish, and view requests for assistance, as well as track the status of their implementation. Volunteers can view available requests, select those they are ready to fulfill, and participate in their implementation. Platform administrators are responsible for content moderation, user activity management, and general service administration.
 
 ## Table of Contents
-- [Projects](#projects)
+[Projects](#projects)
   - [Live Demo](#live-demo)
   - [Technologies](#technologies)
   - [Features](#features)
