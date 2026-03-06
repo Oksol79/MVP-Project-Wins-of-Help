@@ -4,9 +4,9 @@ When creating the Wings of Help project, I worked closely with the team. At the 
 
 The main KPIs and metrics were developed, and together with the designer, key user flows and events for analytics were agreed upon. Additionally, analytical hypotheses were formulated and statistical methods for their verification were described.
 
-The next stage was the development of a dataset for the project in Python, taking into account the defined KPIs, metrics, and database structure, which was prepared by the front-end developer. The generated dataset consists of four tables: help_categories.csv (8), users.csv (9), help.csv (10), and events.csv (11).
+The next stage was the development of a dataset for the project in Python, taking into account the defined KPIs, metrics, and database structure, which was prepared by the front-end developer. The generated dataset consists of four tables: help_categories.csv, users.csv, help.csv, and events.csv.
 
-Exploratory data analysis (EDA) was also conducted using Python tools (Pandas, NumPy, Matplotlib, Seaborn), statistical significance testing was performed, and visualizations of the results were created (12).
+Exploratory data analysis (EDA) was also conducted using Python tools (Pandas, NumPy, Matplotlib, Seaborn), statistical significance testing was performed, and visualizations of the results were created.
 
 As part of the analytical part of the project, the structure of two dashboards (13) was developed, which were implemented in Tableau (14) and Power BI (15).
 
@@ -17,7 +17,8 @@ As part of the analytical part of the project, the structure of two dashboards (
  - [Developing basic KPIs and metrics](#developing-basic-kpis-and-metrics)
  - [Creating hypotheses for A/B tests](#creating-hypotheses-for-ab-tests)
  - [Statistical Methods for Product Analytics](#statistical-methods-for-product-analytics)
- - [Development of the Wings of Help Dataset]()
+ - [Development of the Wings of Help Dataset](#development-of-the-wings-of-help-dataset)
+ - [Exploratory Data Analysis and Visualization in Python](#exploratory-data-analysis-and-visualization-in-python)
 
 
 ## Strategic approach and project planning
@@ -67,12 +68,14 @@ Developed dataset for the Wings of Help web service:
  - Users Table  
 [View the users.csv](https://drive.google.com/file/d/12aZfMzEf5u--WN9sBAJs7qq0ZVtFtjSj/view?usp=sharing)
 
- - Help Table
+ - Help Table  
 [View the help.csv](https://drive.google.com/file/d/1NWqw6SPQ-ZxeKBiSKRloT8C-2ZDEWctB/view?usp=sharing)
 
- - Events Table
+ - Events Table  
 [View the events.csv](https://drive.google.com/file/d/1rewutkypinj0Z9lnEsFM4HIpmeF5lCHh/view?usp=sharing)
    
+## Exploratory Data Analysis and Visualization in Python
+
 
 
 
