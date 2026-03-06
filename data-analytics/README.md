@@ -58,7 +58,7 @@ A/B testing in the Wings of Help web service is planned to be used to test produ
 This document describes statistical methods used to analyze product analytics for the “Wings of Help” web service. These methods support accurate KPI analysis and evaluation of A/B test results to enable data-driven product decisions. The document also helps ensure the correct use of statistical tests and a consistent analytical approach across teams.
 
 ## Development of the Wings of Help Dataset
-[Link to Python code for creating the Wings of Help dataset](data-analytics/Python%20Code%20for%20Creating%20the%20Wings%20of%20Help%20Dataset.ipynb)
+[Link to Python code for creating the Wings of Help dataset](data-analytics/wings-of-help-dataset-generation.ipynb)
 
 The Wings of Help web service provides interaction between people or organizations in need of help and volunteers, allowing users to create, publish, view, and manage requests for help. The platform allows requests to be created, processed by volunteers, and content to be moderated by administrators.  
 The dataset was created to simulate the platform, test the functionality of the web service, analyze the interaction between users and volunteers, and for further research related to optimizing the processing of help requests and scaling the system. Currently, the web platform is developed as an MVP with basic functionality for quick launch and scalability in the future.
