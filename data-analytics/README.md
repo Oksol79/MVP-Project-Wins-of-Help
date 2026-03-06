@@ -61,10 +61,17 @@ The Wings of Help web service provides interaction between people or organizatio
 The dataset was created to simulate the platform, test the functionality of the web service, analyze the interaction between users and volunteers, and for further research related to optimizing the processing of help requests and scaling the system. Currently, the web platform is developed as an MVP with basic functionality for quick launch and scalability in the future.
 
 Developed dataset for the Wings of Help web service: 
- - Help Categories Table [View the help_categories.csv](https://drive.google.com/file/d/1Qm919Z_XPJ2m1Gp9lkIfkjmEfUH5_Bs4/view?usp=sharing) 
- - Users Table[users.csv](https://drive.google.com/file/d/12aZfMzEf5u--WN9sBAJs7qq0ZVtFtjSj/view?usp=sharing)
- - Help Table[help.csv](https://drive.google.com/file/d/1NWqw6SPQ-ZxeKBiSKRloT8C-2ZDEWctB/view?usp=sharing)
- - Events Table[events.csv](https://drive.google.com/file/d/1rewutkypinj0Z9lnEsFM4HIpmeF5lCHh/view?usp=sharing)
+ - Help Categories Table  
+[View the help_categories.csv](https://drive.google.com/file/d/1Qm919Z_XPJ2m1Gp9lkIfkjmEfUH5_Bs4/view?usp=sharing)
+
+ - Users Table  
+[View the users.csv](https://drive.google.com/file/d/12aZfMzEf5u--WN9sBAJs7qq0ZVtFtjSj/view?usp=sharing)
+
+ - Help Table
+[View the help.csv](https://drive.google.com/file/d/1NWqw6SPQ-ZxeKBiSKRloT8C-2ZDEWctB/view?usp=sharing)
+
+ - Events Table
+[View the events.csv](https://drive.google.com/file/d/1rewutkypinj0Z9lnEsFM4HIpmeF5lCHh/view?usp=sharing)
    
 
 
