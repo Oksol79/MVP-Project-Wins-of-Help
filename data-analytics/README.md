@@ -19,7 +19,8 @@ As part of the analytical part of the project, the structure of two dashboards w
  - [Statistical Methods for Product Analytics](#statistical-methods-for-product-analytics)
  - [Development of the Wings of Help Dataset](#development-of-the-wings-of-help-dataset)
  - [Exploratory Data Analysis and Visualization in Python](#exploratory-data-analysis-and-visualization-in-python)
- - [Developing a dashboard structure in Tableau]()
+ - [Development of a Tableau Dashboard](#development-of-a-tableau-dashboard)
+ - [Development of a Power BI Dashboard]()
 
 
 ## Strategic approach and project planning
@@ -80,14 +81,35 @@ Developed dataset for the Wings of Help web service:
 
 The Wings of Help web service enables interaction between people or organizations in need of help and volunteers through a centralized platform for managing requests for help. The project dataset was created in Python and follows the Postgres SQL database structure, key performance indicators (KPIs), and metrics defined in the project documentation.
 
-## Developing a dashboard structure in Tableau
+## Development of a Tableau Dashboard
 [View the document](https://docs.google.com/document/d/1mM0jjqHDccpMarAl8XXr5woU2CP8WEb6TKfbxMJIYYw/edit?usp=sharing)
 
-This dashboard provides a comprehensive analytical overview of the Wings of Help platform, focusing on user growth, engagement, operational efficiency, and supply-demand balance between requests and offers.
-It is designed to support product and operational decision-making by tracking platform performance across acquisition, activation, engagement, and fulfillment stages.
+[Link to the Dashboard on Tableau Public](https://public.tableau.com/app/profile/oksana.olar/viz/WingsofHelpAnalyticsMVP/WingsofHelpPlatformPerformanceUserAnalytics)
+
+This dashboard provides a comprehensive analytical overview of the Wings of Help platform, focusing on user growth, engagement, operational efficiency, and supply-demand balance between requests and offers.  
+It is designed to support product and operational decision-making by tracking platform performance across acquisition, activation, engagement, and fulfillment stages. The developed Wings of Help | Platform Performance & User Analytics dashboard is shown in Fig. 1.   
+
+<img width="1499" height="1749" alt="Copy of Wings of Help Tableau" src="https://github.com/user-attachments/assets/dd823b83-21d5-4572-a481-86883197cc8d" />
+
+Fig. 1. Wings of Help | Platform Performance & User Analytics
+
+The web platform of the “Wings of Help” demonstrates a stable growth of users and a gradual increase in their involvement: Engagement Rate has increased to 45%, and WAU is stable without sharp declines. This indicates the formation of an active user base and the growth in value of this web service.   
+The distribution by roles reveals a significant imbalance between demand and supply, as the share of requests and users in need of help significantly exceeds the number of available volunteers.   
+The main need at the moment is to scale up the offers and improve the matching processes, since a significant share of requests remains in the new status. The web platform has proven demand and positive development dynamics, so the next stage is to strengthen the volunteer base and increase the conversion of interactions for more effective closing of requests for help.  
+
+## Development of a Power BI Dashboard
+[View the document](https://docs.google.com/document/d/1YSGfG6Q_suBsq-ZqdDYUU1btYVzp1ffhKQPFzbhEvKw/edit?usp=sharing)
+
+This dashboard is designed for a comprehensive analysis of the effectiveness of the Wings of Help web platform. It allows you to assess the balance between demand and supply of assistance, the level of coverage of requests by volunteers, the speed of response to requests, and the overall operational effectiveness of the case processing process. The use of key KPIs and analytical visualizations allows you to identify bottlenecks in the platform's work, identify risk areas, and formulate management recommendations for improving the quality of the web service. The developed Wings of Help: Platform Health & Demand-Supply Analysis dashboard is shown in Fig. 2. 
+
+<img width="1127" height="729" alt="Wings of Help Power BI" src="https://github.com/user-attachments/assets/26310f3b-8d13-42d4-9f40-12f58b986416" />
+
+Fig. 2. Wings of Help: Platform Health & Demand-Supply Analysis
 
 
-
+As a result of building the dashboard, it was found that the Wings of Help platform operates in a state of stable imbalance between demand and supply. In particular, the number of requests for help consistently exceeds the number of offers of help by more than two times, which leads to the accumulation of unmet demand.  
+The analysis of process efficiency revealed that only a portion of the created requests is processed, with a small percentage reaching completion, indicating a bottleneck at the stage of fulfilling demand by volunteers. At the same time, the average and median time to take a request into work is about 34.5 hours, which is a sign of a stable, but not instantaneous, response speed. The presence of cases with a delay of up to 72 hours confirms the uneven load on volunteers, low volunteer involvement, or limited resources.  
+Therefore, the key insights are the structural shortage of supply, the need to increase the level of volunteer involvement, and the potential for optimizing the response process to reduce user waiting times.  
 
 
 ## Tools Used
