@@ -12,8 +12,11 @@ The system allows users to create, publish, and view requests for assistance, as
   - [Features](#features)
   - [Installation](#installation)
   - [Our team](#our-team)
+  - [Preview](#preview)
  
 ## **Projects**
+[Link to MVP Projects](https://volunteer-site-placeholder-dev.up.railway.app/#/)  
+
 The web service is implemented as an MVP (Minimum Viable Product) - a minimum viable product with a basic set of functions necessary to launch the platform and ensure its basic operation. This approach enables the rapid deployment of the system and provides the possibility of further scaling, expanding functionality, and integrating with other services.
 
 ## **Live Demo**
@@ -78,3 +81,37 @@ Run the project
 npm run dev
 ```
 ## Our team
+Anton Blyznyuk – Backend Developer  
+https://www.linkedin.com/in/anton-blyzniuk-python-dev/
+
+Maxim Prysyazhnikov – DevOps Engineer  
+https://www.linkedin.com/in/maxim-prysyazhnikov-b46196163/
+
+Sofia Kolomoiets – UI/UX Designer  
+https://www.linkedin.com/in/sophia-kolomoiets/
+
+Yulia Petrovska – Frontend Developer  
+https://www.linkedin.com/in/julya-petrovska-fd/
+
+Roman Rusin – Frontend Developer  
+https://www.linkedin.com/in/roman-rusin-866aa4322
+
+Kateryna Pyzhevska – Digital Marketing  
+https://www.linkedin.com/in/kateryna-pyzhevska-76aa65396
+
+Oksana Olar – Data Analyst  
+https://www.linkedin.com/in/oksana-olar/
+
+Yevheniia Zhakun – QA Engineer  
+https://www.linkedin.com/in/yevheniia-zhakun-497783391
+
+## Preview
+<img width="1043" height="630" alt="image" src="https://github.com/user-attachments/assets/60a0fd72-39a4-4eef-8bea-6df1c4e6c4ef" />
+
+<img width="1190" height="851" alt="image" src="https://github.com/user-attachments/assets/711a5e8b-880f-4702-a6ef-dca8ebef47ea" />
+
+<img width="1195" height="565" alt="image" src="https://github.com/user-attachments/assets/e52526af-5b97-464f-b927-9e5f04e660b6" />
+
+<img width="1100" height="800" alt="image" src="https://github.com/user-attachments/assets/49e9eb5e-9006-4ab0-8545-4e932a91a58b" />
+
+
